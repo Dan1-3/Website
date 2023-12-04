@@ -1,0 +1,35 @@
+
+h1
+{
+  text-align: center;
+  color: black;
+  padding: 20px
+}
+body
+{
+  background-color: whitesmoke;
+}
+#one
+{
+  
+  background-color: lightgoldenrodyellow;
+  margin-bottom: 20;
+}
+#two
+{
+  background-color: lightgoldenrodyellow;
+  margin-bottom: 20;
+}
+#three
+{
+  background-color: lightgoldenrodyellow;
+  margin-bottom: 20;
+}
+
+
+footer
+{
+  display: inline-block;
+  color: black;
+  margin-bottom: 20;
+}

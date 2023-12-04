@@ -1,0 +1,26 @@
+body
+{
+  background-color: whitesmoke;
+}
+#one
+{
+  display: inline-block;
+  color: black;
+  background-color: lightgoldenrodyellow;
+  margin-right: 0px;
+  
+}
+img
+{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  float: left;
+}
+
+#two
+{
+  margin-inline-start: 10px;
+  background-color: lightgray
+}
