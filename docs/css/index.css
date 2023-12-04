@@ -36,7 +36,8 @@ nav a {
   width: 150px;
 }
 nav li:hover {
-  background-color: darkgreen;
+ background: darkgreen;
+ border-right: 2px solid lightgreen;
 }
 
 .swiper
