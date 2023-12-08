@@ -1,0 +1,328 @@
+html,
+h1 {
+  text-align: center;
+  color: black;
+  padding: 20px;
+}
+
+body {
+  background-image: url(../images/pexels-pixabay-434337.jpg);
+  background-size: cover;
+  position: relative;
+  height: 100%;
+
+}
+body {
+  background-color: #323232;
+  font-family: Helvetica Neue, Helvetica;
+  font-size: 14px;
+  color: whitesmoke;
+  margin: 0;
+  padding: 0;
+}
+nav ul {
+  background-color: grey;
+  width: 100%;
+  list-style-type: none;
+  text-align: center;
+}
+nav li {
+  display: inline-flex;
+}
+nav a {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  width: 150px;
+}
+nav li:hover {
+  background: darkgreen;
+  border-right: 2px solid lightgreen;
+}
+
+.swiper {
+  width: 100%;
+  padding: 150px 0 50px 0;
+}
+.swiper-slide {
+  width: 300px;
+  height: 500px;
+  background-color: rgb(7, 7, 41);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  text-align: center;
+}
+.icons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 40px;
+}
+.icons i {
+  font-size: 20px;
+  color: #ff8900;
+}
+.icons img {
+  width: 120px;
+}
+.product-content {
+  display: flex;
+  justify-content: space-between;
+}
+.product-txt {
+  flex-basis: 50%;
+  text-align: left;
+}
+.product-txt span {
+  font-size: 25px;
+  color: #ff8900;
+  font-weight: bold;
+}
+.product-txt h3 {
+  font-size: 20px;
+  color: white;
+  text-transform: uppercase;
+}
+.product-txt p {
+  font-size: 14px;
+  color: #c4c4c4;
+}
+.product-img {
+  flex-basis: 50%;
+  text-align: right;
+}
+.product-img img {
+  width: 120px;
+}
+.btn-1 {
+  display: inline-block;
+  padding: 13px 55px;
+  border: 1px solid #ff8900;
+  border-radius: 25px;
+  color: #ff8900;
+  text-decoration: none;
+  margin-top: 50px;
+}
+/*About*/
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600);
+.cv
+{
+  color: #323232;
+  font-size: 20px;
+  text-align: center;
+}
+.name  
+{
+  color: #323232;
+  font-size: 20px;
+  text-align: left;
+}
+#one {
+  display: inline-flexblox;
+  color: black;
+  background-color: lightgoldenrodyellow;
+  margin-right: 0px;
+  text-align: left;
+  
+}
+.information img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  float: center;
+}
+
+#two {
+  display: inline-flexbox ;
+  color: black;
+  background-color: lightgoldenrodyellow;
+  margin-right: 0px;
+  text-align: left;
+}
+.social
+{
+  display: inline-flexbox ;
+  color: black;
+  background-color: lightgoldenrodyellow;
+  margin-right: 0px;
+  text-align: left;
+}
+.languages img
+{
+  height: 20px;
+}
+#lang
+{
+  display: inline-flexbox ;
+  color: black;
+  background-color: lightgoldenrodyellow;
+  margin-right: 0px;
+  text-align: left;
+}
+.pdf
+{
+  display: inline-flexbox ;
+  color: black;
+  background-color: lightgoldenrodyellow;
+  margin-right: 0px;
+  text-align: center;
+}
+
+/*Topic*/
+h2 {
+  text-align: center;
+  color: black;
+  padding: 20px;
+}
+body {
+  background-color: whitesmoke;
+}
+#uno {
+  background-color: lightyellow;
+  margin-bottom: 20;
+  color: #323232;
+  text-align: left;
+}
+#dos {
+  background-color: lightyellow;
+  margin-bottom: 20;
+  color: #323232;
+  text-align: left;
+}
+#tres {
+  background-color: lightyellow;
+  margin-bottom: 20;
+  color: #323232;
+  text-align: left;
+}
+#cuatro
+{
+  color: black;
+  font-size: 20px;
+}
+
+footer {
+  display: inline-block;
+  color: black;
+  margin-bottom: 20;
+  background-color: rgb(238, 142, 174);
+}
+
+/*Degree*/
+h4 {
+  text-align: center;
+  color: #323232;
+  font-size: 15px
+}
+.courses {
+  background-color:rgb(244, 244, 244) ;
+   color: #323232;
+   text-align: left;
+ }
+
+ 
+/*Fundamentals*/
+.fundamentals {
+  color: #323232;
+
+}
+.titlefundamentals
+{
+  font-size: 20px;
+  color: #323232;
+}
+#first {
+  background-color: rgba(128, 255, 0, 0.3);
+  border: 1cap solid rgba(100, 200, 0, 0.3);
+  text-align: center;
+  color: #323232 ;
+}
+.module1
+{
+  background-color: rgb(193, 231, 154);
+  color: #323232;
+}
+#second {
+  background-color: rgba(255, 128, 0, 0.3);
+  border: 1px solid rgba(200, 100, 0, 0.3);
+  color: #323232 ;
+}
+.module2
+{
+  background-color: rgb(237, 199, 160);
+  color: #323232;
+}
+#third {
+  background-color: rgba(0, 200, 255, 0.3);
+  border: 1px solid rgba(0, 63, 200, 0.3);
+  color: #323232 ;
+}
+.module3
+{
+  background-color:rgb(165, 225, 242) ;
+  color: #323232;
+}
+.numeralsystems
+{
+  background-color: rgb(165, 225, 242);
+}
+#fourth {
+  background-color: rgba(236, 11, 116, 0.3);
+  border: 1px solid rgba(214, 5, 222, 0.3);
+  color: #323232 ;
+}
+.module4
+{
+  background-color:rgb(235, 187, 209) ;
+  color: #323232;
+}
+#fifth {
+  background-color: rgba(238, 255, 0, 0.3);
+  border: 1px solid rgba(230, 250, 0, 0.3);
+  color: #323232 ;
+}
+.module5
+{
+  background-color: rgb(236, 241, 164) ;
+  color: #323232;
+}
+.software
+{
+  color: black;
+  background-color:rgb(242, 204, 165) ;
+}
+.newtrends
+{
+  background-color: rgb(242, 204, 165);
+}
+/*Net*/
+.net 
+{
+  color: #323232;
+  font-size: 15px;
+}
+/*Contact*/
+.contactitle
+{
+  color: #323232;
+  font-size: 20px;
+}
+.contact
+{
+  background-color: rgb(150,215,200);
+  text-align: left;
+  color: black;
+}
+.formulario
+{
+  background-color: rgb(150, 215, 200);
+  text-align: left;
+  color: #323232;
+}
+.country
+{
+  background-color: rgb(150, 215, 200);
+  text-align: left;
+  color: #323232;
+}
