@@ -302,6 +302,11 @@ h4 {
   color: #323232;
   font-size: 15px;
 }
+.net ul{
+  background-color: lightgray;
+  text-align: left;
+  border: 2px solid darkgoldenrod;
+}
 /*Contact*/
 .contactitle
 {
